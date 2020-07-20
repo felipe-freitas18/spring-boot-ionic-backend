@@ -8,4 +8,4 @@ Skill level: Nível Intermediário
 
 link do curso: https://www.udemy.com/share/101sieB0QfdltbTX8=/
 
-Projeto do Capítulo 2, Implementação do modelo conceitual.
+Projeto do Capítulo 3, Operações de CRUD e Casos de Uso.
